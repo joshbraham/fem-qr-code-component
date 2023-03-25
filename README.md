@@ -2,6 +2,8 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+[Hosted with Netlify](https://jbhm-qr-code-component.netlify.app/) (Click to see in-browser solution)
+
 ## Screenshot
 
 ![](./images/screenshot.png)
@@ -10,10 +12,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
--   CSS Grid (to place the card in the center of the screen)
--   [CSS reset by Josh W Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid (to place the card in the center of the screen)
+- [CSS reset by Josh W Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ### What I learned
 
