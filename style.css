@@ -15,7 +15,7 @@ body {
   place-content: center;
 }
 
-aside {
+main {
   max-width: 320px;
   background-color: var(--clr-white);
   padding: 1rem;
